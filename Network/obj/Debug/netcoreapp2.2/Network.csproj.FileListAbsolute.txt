@@ -1,0 +1,11 @@
+/home/jambo/Jambo/edu/prog/netcore/Hopfield/Network/bin/Debug/netcoreapp2.2/Network.deps.json
+/home/jambo/Jambo/edu/prog/netcore/Hopfield/Network/bin/Debug/netcoreapp2.2/Network.runtimeconfig.json
+/home/jambo/Jambo/edu/prog/netcore/Hopfield/Network/bin/Debug/netcoreapp2.2/Network.runtimeconfig.dev.json
+/home/jambo/Jambo/edu/prog/netcore/Hopfield/Network/bin/Debug/netcoreapp2.2/Network.dll
+/home/jambo/Jambo/edu/prog/netcore/Hopfield/Network/bin/Debug/netcoreapp2.2/Network.pdb
+/home/jambo/Jambo/edu/prog/netcore/Hopfield/Network/obj/Debug/netcoreapp2.2/Network.csprojAssemblyReference.cache
+/home/jambo/Jambo/edu/prog/netcore/Hopfield/Network/obj/Debug/netcoreapp2.2/Network.csproj.CoreCompileInputs.cache
+/home/jambo/Jambo/edu/prog/netcore/Hopfield/Network/obj/Debug/netcoreapp2.2/Network.AssemblyInfoInputs.cache
+/home/jambo/Jambo/edu/prog/netcore/Hopfield/Network/obj/Debug/netcoreapp2.2/Network.AssemblyInfo.cs
+/home/jambo/Jambo/edu/prog/netcore/Hopfield/Network/obj/Debug/netcoreapp2.2/Network.dll
+/home/jambo/Jambo/edu/prog/netcore/Hopfield/Network/obj/Debug/netcoreapp2.2/Network.pdb
